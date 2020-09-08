@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    text-decoration: bold;
+}
+#description {
+    text-align: center
+}
+p{
+    color: red;
+    font-size: 16pt
+}
+.caption{
+    font-weight: bold;
+}
